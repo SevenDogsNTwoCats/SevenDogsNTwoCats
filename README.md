@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SevenDogsNTwoCats
-- 👀 Aqui se subo los proyectos y tareas de programacion realizados en clases de la Universidad
+- 👀 Aqui se subo proyectos personales y otros proyectos y tareas de programacion realizados en clases de la Universidad
 - 🌱 Espero les ayuden un poco 💞️
 - 📫 Mail: alh9cef@gmail.com, andenglego@gail.com, TW: @7DogsAnd8Cats, YT: Alhanis Espinal Flores https://www.youtube.com/channel/UC2Umvr5sluKHDCR2f1t98ZA
 
