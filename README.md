@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @SevenDogsNTwoCats
 - 👀 Aqui se subo proyectos personales y otros proyectos y tareas de programacion realizados en clases de la Universidad
 - 🌱 Espero les ayuden un poco 💞️
-- 📫 Mail: alh9cef@gmail.com, andenglego@gail.com, TW: @7DogsAnd8Cats, YT: Alhanis Espinal Flores https://www.youtube.com/channel/UC2Umvr5sluKHDCR2f1t98ZA
+- 📫 Mail: alhanis.espinal@outlook.com, alh9cef@gmail.com, andenglego@gail.com
+- 📹 YT: Alhanis Espinal Flores https://www.youtube.com/channel/UC2Umvr5sluKHDCR2f1t98ZA
+- 💼 Linkedin: https://www.linkedin.com/in/alhanis-carolina-espinal-flores/
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SevenDogsNTwoCats&show_icons=true&theme=radical)
 <!---
