@@ -1,4 +1,4 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=SevenDogsNTwoCats&theme=gruvbox&rank=S,A,AA,AAA,B,C)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=SevenDogsNTwoCats&theme=gruvbox&rank=S,SS,SSS,A,AA,AAA,B,C)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 - 👋 Hi, I’m @SevenDogsNTwoCats
