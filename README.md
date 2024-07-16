@@ -13,6 +13,11 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SevenDogsNTwoCats&show_icons=true&theme=radical&layout=compact)](https://github.com/SevenDogsNTwoCats/github-readme-stats)
 
 
+!GitHub Stats
+!GitHub Streak
+
+
+
 <!---
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SevenDogsNTwoCats)](https://github.com/SevenDogsNTwoCats/github-readme-stats)
 SevenDogsNTwoCats/SevenDogsNTwoCats is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
