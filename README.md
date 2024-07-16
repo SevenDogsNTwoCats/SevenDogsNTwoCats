@@ -12,8 +12,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SevenDogsNTwoCats&show_icons=true&theme=radical&layout=compact)](https://github.com/SevenDogsNTwoCats/github-readme-stats)
 
+<p align="center">
 [![GitHub Streak](https://streak-stats.demolab.com/?user=SevenDogsNTwoCats&theme=dark)](https://git.io/streak-stats)
-
+</p>
 
 <!---
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SevenDogsNTwoCats)](https://github.com/SevenDogsNTwoCats/github-readme-stats)
