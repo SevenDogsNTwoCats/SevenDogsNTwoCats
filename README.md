@@ -21,7 +21,8 @@
 
 ---
 
-![Estadísticas de GitHub]([https://github-readme-stats.vercel.app](https://github.com/SevenDogsNTwoCats/github-readme-stats/api?username=SevenDogsNTwoCats&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+
+[![Estadísticas de GitHub de TuUsuario](https://github-readme-stats.vercel.app/api?username=SevenDogsNTwoCats&show_icons=true&theme=dracula&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=SevenDogsNTwoCats&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
