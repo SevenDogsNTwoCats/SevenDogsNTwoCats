@@ -21,7 +21,7 @@
 
 ---
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SevenDogsNTwoCats&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=TU_USUARIO_REAL&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SevenDogsNTwoCats&show_icons=true&theme=radical&layout=compact&include_all_commits=true&count_private=true)](https://github.com/SevenDogsNTwoCats/github-readme-stats)
+[![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_REAL&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
