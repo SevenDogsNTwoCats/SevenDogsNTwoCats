@@ -1,7 +1,7 @@
 <div align="center">
 
 # 👩‍💻 Alhanis Carolina Espinal Flores
-### Full Stack Developer | UI/UX Enthusiast 🐾
+### Full Stack Developer | UI/UX Enthusiast | AI Engineer
 
 [![Portfolio](https://img.shields.io/badge/Portafolio-Visitar-6e5494?style=for-the-badge&logo=google-chrome&logoColor=white)](https://alhespinal.web.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alhanis-carolina-espinal-flores/)
