@@ -1,7 +1,7 @@
 <div align="center">
 
 # 👩‍💻 Alhanis Carolina Espinal Flores
-### Full Stack Developer | UI/UX Enthusiast | Pet Lover 🐾
+### Full Stack Developer | UI/UX Enthusiast 🐾
 
 [![Portfolio](https://img.shields.io/badge/Portafolio-Visitar-6e5494?style=for-the-badge&logo=google-chrome&logoColor=white)](https://alhespinal.web.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alhanis-carolina-espinal-flores/)
@@ -54,7 +54,7 @@ Soy una **Desarrolladora Full Stack** con un enfoque híbrido entre el diseño i
 ## 📌 Proyectos y Experiencia
 *Puedes ver mi trabajo en vivo en mi [Portafolio Web](https://alhespinal.web.app/)*
 
-1.  **Apps Híbridas:** Desarrollo multiplataforma con Ionic y Angular.
+1.  **Apps Híbridas:** Desarrollo multiplataforma con React y Next JS.
 2.  **Web Dinámica:** Creación de SPAs optimizadas y responsivas.
 3.  **Cloud Solutions:** Integración de servicios en la nube con Firebase.
 
