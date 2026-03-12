@@ -55,11 +55,6 @@ Soy una **Desarrolladora Full Stack** con un enfoque híbrido entre el diseño i
 | :---: | :---: |
 | ![Stats](https://github-readme-stats.vercel.app/api?username=SevenDogsNTwoCats&show_icons=true&theme=dracula&hide_border=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SevenDogsNTwoCats&layout=compact&theme=dracula&hide_border=true) |
 
-<br>
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SevenDogsNTwoCats&theme=dracula&area=true&hide_border=true)
-
-</div>
 
 ---
 
