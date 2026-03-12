@@ -51,12 +51,34 @@ Soy una **Desarrolladora Full Stack** con un enfoque híbrido entre el diseño i
 
 ---
 
+---
+
+## 🏆 Logros y Actividad
+
+<div align="center">
+
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SevenDogsNTwoCats&theme=dracula)
+
+<br>
+
+| 📊 **Estadísticas de Código** | 💻 **Lenguajes Top** |
+| :---: | :---: |
+| ![Stats](https://github-readme-stats.vercel.app/api?username=SevenDogsNTwoCats&show_icons=true&theme=dracula&hide_border=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SevenDogsNTwoCats&layout=compact&theme=dracula&hide_border=true) |
+
+<br>
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SevenDogsNTwoCats&theme=dracula&area=true&hide_border=true)
+
+</div>
+
+---
+
 ## 📌 Proyectos y Experiencia
 *Puedes ver mi trabajo en vivo en mi [Portafolio Web](https://alhespinal.web.app/)*
 
 1.  **Apps Híbridas:** Desarrollo multiplataforma con React y Next JS.
 2.  **Web Dinámica:** Creación de SPAs optimizadas y responsivas.
-3.  **Cloud Solutions:** Integración de servicios en la nube con Firebase.
+3.  **Cloud Solutions:** Integración de servicios en la nube con AWS y Google Cloud.
 
 ---
 
