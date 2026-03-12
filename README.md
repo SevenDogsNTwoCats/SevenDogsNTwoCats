@@ -1,24 +1,23 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Alhanis%20Espinal&fontSize=70&animation=fadeIn&fontAlignY=38)
-
-### 💻 Full Stack Developer | Problem Solver | Animal Lover 🐾
+# 👩‍💻 Alhanis Carolina Espinal Flores
+### Full Stack Developer | UI/UX Enthusiast | Pet Lover 🐾
 
 [![Portfolio](https://img.shields.io/badge/Portafolio-Visitar-6e5494?style=for-the-badge&logo=google-chrome&logoColor=white)](https://alhespinal.web.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alhanis-carolina-espinal-flores/)
 [![Email](https://img.shields.io/badge/Email-Contactar-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alh9cef@gmail.com)
 
-</div>
-
 ---
+
+</div>
 
 ## 🚀 Sobre mí
 
-Soy una **Desarrolladora Full Stack** apasionada por crear soluciones digitales que combinen funcionalidad y diseño. Con experiencia desde mis días universitarios hasta proyectos profesionales actuales, me enfoco en escribir código limpio y escalable.
+Soy una **Desarrolladora Full Stack** con un enfoque híbrido entre el diseño intuitivo y la lógica robusta. Mi evolución desde la universidad hasta hoy se refleja en mi capacidad para adaptarme a nuevas tecnologías y resolver problemas complejos.
 
-- 🔭 **Actualmente:** Trabajando en proyectos Full Stack y mejorando mis habilidades en arquitectura de software.
-- 🎨 **Enfoque:** UX/UI intuitivo y Backend robusto.
-- ⚡ **Dato curioso:** Mi usuario `SevenDogsNTwoCats` es el reflejo de mi gran familia multiespecie.
+- 🔭 **Enfoque:** Angular, Ionic y Firebase (Ecosistema de tu portafolio).
+- 🎨 **Pasión:** Crear interfaces que no solo funcionen, sino que encanten.
+- 🐾 **Dato:** Mi usuario `SevenDogsNTwoCats` es el corazón de mi hogar.
 
 ---
 
@@ -26,54 +25,44 @@ Soy una **Desarrolladora Full Stack** apasionada por crear soluciones digitales 
 
 <div align="center">
 
-### 🌐 Frontend & Mobile
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### ⚙️ Backend & DB
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### 🔧 Herramientas
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+| **Frontend** | **Backend** | **Herramientas** |
+| :--- | :--- | :--- |
+| ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react) | ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs) | ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat-square&logo=git) |
+| ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular) | ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker) |
+| ![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=flat-square&logo=ionic) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql) | ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel) |
 
 </div>
 
 ---
 
-## 📊 Estadísticas de GitHub
+## 📊 Actividad y Estadísticas
 
 <div align="center">
 
-| 🏆 **Rendimiento de Código** | 💻 **Lenguajes más usados** |
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SevenDogsNTwoCats&theme=dracula&area=true&hide_border=true)
+
+<br>
+
+| 📈 **Estadísticas Generales** | 💻 **Lenguajes Predominantes** |
 | :---: | :---: |
-| [![Stats](https://github-readme-stats.vercel.app/api?username=SevenDogsNTwoCats&show_icons=true&theme=transparent&title_color=7957d5&icon_color=7957d5&text_color=ffffff&bg_color=0d1117&hide_border=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SevenDogsNTwoCats&layout=compact&theme=transparent&title_color=7957d5&text_color=ffffff&bg_color=0d1117&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) |
+| ![Stats](https://github-readme-stats.vercel.app/api?username=SevenDogsNTwoCats&show_icons=true&theme=dracula&include_all_commits=true&hide_border=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SevenDogsNTwoCats&layout=compact&theme=dracula&hide_border=true) |
 
 </div>
 
-### 🔥 Mi Racha de Actividad
-![Streak](https://streak-stats.demolab.com/?user=SevenDogsNTwoCats&theme=transparent&stroke=7957d5&background=0d1117&ring=7957d5&fire=7957d5&currStreakNum=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true)
-
 ---
 
-## 📌 Proyectos Destacados
-*Puedes ver más detalles en mi [Portafolio Web](https://alhespinal.web.app/)*
+## 📌 Proyectos y Experiencia
+*Puedes ver mi trabajo en vivo en mi [Portafolio Web](https://alhespinal.web.app/)*
 
-1.  **Plataformas Web:** Desarrollo de aplicaciones SPA con React y Angular.
-2.  **Soluciones Móviles:** Apps híbridas potentes utilizando Ionic.
-3.  **Arquitectura Serverless:** Implementación de backends eficientes con Firebase.
+1.  **Apps Híbridas:** Desarrollo multiplataforma con Ionic y Angular.
+2.  **Web Dinámica:** Creación de SPAs optimizadas y responsivas.
+3.  **Cloud Solutions:** Integración de servicios en la nube con Firebase.
 
 ---
 
 <div align="center">
 
-![Visitors](https://komarev.com/ghpvc/?username=SevenDogsNTwoCats&color=7957d5&style=flat-square&label=VISTAS+AL+PERFIL)
+![Profile Views](https://komarev.com/ghpvc/?username=SevenDogsNTwoCats&color=7957d5&style=flat-square&label=VISTAS+AL+PERFIL)
 
 *“Transformando ideas en líneas de código.”*
 
