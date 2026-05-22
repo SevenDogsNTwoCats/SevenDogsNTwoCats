@@ -13,17 +13,11 @@
 
 ## 🚀 Sobre mí
 
-Soy una **Desarrolladora Full Stack** con un enfoque híbrido entre el diseño intuitivo y la lógica robusta. Mi evolución desde la universidad hasta hoy se refleja en mi capacidad para adaptarme a nuevas tecnologías y resolver problemas complejos.
-
-- 🔭 **Enfoque:** Angular, Ionic y Firebase (Ecosistema de tu portafolio).
-- 🎨 **Pasión:** Crear interfaces que no solo funcionen, sino que encanten.
-- 🐾 **Dato:** Mi usuario `SevenDogsNTwoCats` es el corazón de mi hogar.
+Soy una **Desarrolladora Full Stack** con un enfoque híbrido entre el diseño intuitivo y la lógica robusta.
 
 ---
 
 ## 🛠️ Mi Dashboard Tecnológico
-
-
 
 <p align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
